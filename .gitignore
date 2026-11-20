@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+captures/
+.demo-token
+dist/
+build/
+recorded-dist/
+video-dist/
+video-build/
+*.spec
+vendor/
+*.mp4
+*.zip
+report-page-*.png
+demo-data/
+tmp*/
